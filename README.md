@@ -1,0 +1,2 @@
+# SQLMasterclass
+Derinlemesine SQL
